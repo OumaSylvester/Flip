@@ -1,6 +1,6 @@
 # Flip
 + A simple Strategy game. 
-+ Computer comptes Human Player in flipping tiles.
++ Computer competes Human Player in flipping tiles.
 
 + A player can flip tiles vertically, horizontally and diagonally.
 + Assume two players, X and O
